@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANNGUYENDEV
 - 👀 I’m interested in software developer..
 - 🌱 I’m currently learning computer programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
 <!---
